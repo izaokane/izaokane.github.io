@@ -94,8 +94,8 @@ figure {
       transform: translateX(-300px);
       padding-top: 4em; } }
  .author-img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     margin: 0 auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
@@ -104,10 +104,10 @@ figure {
     border-radius: 50%; }
   .about-desc .author-img {
     margin: 0 0 24px 0;
-    height: 33vw;
-    width: 33vw;
-    max-width: 150px;
-    max-height: 150px;
+    height: 40vw;
+    width: 40vw;
+    max-width: 200px;
+    max-height: 200px;
     display: none;
   }
   @media screen and (max-width: 768px) {
