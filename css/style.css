@@ -115,6 +115,13 @@ figure {
       display: block;
     }
   }
+  blockquote p {
+    margin-bottom: 0.75em;
+  }
+  blockquote h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
 
   #okane-aside .position {
     display: block;
